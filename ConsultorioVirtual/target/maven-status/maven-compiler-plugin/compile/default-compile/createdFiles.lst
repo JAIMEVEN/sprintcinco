@@ -1,0 +1,4 @@
+com\misiontic\consultoriovirtual\Ejecutar.class
+Persistencia\ConexionBD.class
+Logica\Medicamento.class
+Logica\Paciente.class
